@@ -1,4 +1,4 @@
-tspear.github.io
+http://tspear.github.io
 ================
 
 github pages site
