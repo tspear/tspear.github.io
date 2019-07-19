@@ -1,4 +1,1 @@
-hi
-
-what do you think?
-[google.com]
+https://www.google.com/search?q=site%3Aruskinspear.com
