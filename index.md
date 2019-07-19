@@ -1,2 +1,4 @@
-this is an alternative homepage.
-which will get used?
+hi
+
+what do you think?
+[google.com]
